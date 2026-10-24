@@ -1,0 +1,19 @@
+Create a portrait A4 illustration, aspect ratio 210:297, in an elegant Chinese-style simplified ink-line drawing aesthetic suitable for a high-quality children's picture book. Use clean, confident black ink outlines, simple clearly defined shapes, and playful yet refined linework. Apply only pale, flat watercolor-tint fills; no watercolor rendering, tonal gradients, modeled shading, or realistic lighting. Keep a warm ivory-beige xuan-paper background with a subtle paper texture.
+
+Preserve the following composition exactly. Do not add or omit elements.
+
+1. BLANK WRITING AREA: Reserve approximately 35% of the entire page in the upper-left as completely empty warm beige paper for a child's handwritten English poem to be added later. Do not generate the poem. This reserved area must contain absolutely no drawing, ink lines, colored washes, clouds, mountain contours, branches, marks, or other objects. Let the blank area merge naturally with the paper background; do not outline it or place it inside a box.
+
+2. NO TEXT OR SEALS: No text, letters, numbers, calligraphy, signage, or seal stamps anywhere in the image.
+
+3. BACKGROUND, UPPER-RIGHT THROUGH MIDDLE DISTANCE: Depict the Qinling Mountains as overlapping blue-gray and pine-green ridgelines with small touches of snow on the highest peaks. Several white horizontal cloud ribbons cross the mountains at mid-slope. Suggest atmospheric recession toward a pale sky using successively lighter, separate flat color shapes and fewer lines, never gradient shading. Keep all mountain and sky imagery outside the upper-left blank area.
+
+4. MAIN SUBJECT, MIDDLE DISTANCE THROUGH LOWER-RIGHT: Accurately depict the real Xi'an Future Eye Grand Theatre, preserving its distinctive architectural massing rather than inventing a generic futuristic theatre. It is a large cluster of interlocking, angular, faceted volumes resembling an artificial range of small mountains. All sloping roofs and exterior wall surfaces are clad in matte blue-green-gray stone slate: visibly opaque stone, not glass. Show origami-like roof planes tilting at multiple angles, a few square courtyard openings cut into the roofs, and several projecting volumes extending toward the water with open gable ends. Simplify the architectural drawing into legible black outlines and flat pale fills while retaining these defining structural features. This clustered theatre is the visual focal point.
+
+5. DIRECTLY IN FRONT OF THE THEATRE: A round green peninsula projects into the lake. On it, clearly depict the signature circular open-air stage: a flat, pale circular disc plaza with concentric rings and a faint radial pattern at its center. Draw its circular plan in perspective, resting horizontally on the ground, not as an upright round structure. Surround the plaza with a green lawn rim and a few willow trees. Lake water wraps around three sides of the peninsula. Include faint, simplified reflections of the theatre, circular stage, and distant mountains in the water, rendered as sparse pale flat shapes rather than realistic reflective effects.
+
+6. FOREGROUND: One white egret stands quietly in shallow water. A patch of golden reeds with tiny morning dew droplets occupies the lower-left corner. One rugged, expressive pine branch enters from the right edge, remaining entirely outside the upper-left blank writing area.
+
+Use a restrained palette of pine green, pale celadon, blue-gray, and golden amber against warm beige paper. Keep the scene airy, quiet, and readable, balancing the substantial architectural cluster on the right with the untouched upper-left paper. Preserve all specified elements without decorative additions.
+
+Negative: any text, letters, calligraphy, seal stamp, glass curtain walls, a single glass building, giant vertical round window, photorealistic, heavy 3D render, complex gradient shading, cluttered details, watermark, border frame.
